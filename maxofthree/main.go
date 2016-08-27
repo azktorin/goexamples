@@ -1,10 +1,9 @@
 // Package name.
 package main
 
-// Import libs
+// Imports.
 import (
 	"fmt"
-	"strconv"
 )
 
 // "RETURN" max of a, b, c.
@@ -21,7 +20,6 @@ func MaxOfThree(a, b, c int) int {
 // Main function.
 func main() {
 	max := MaxOfThree(5, 6, 8)
-	s := strconv.Itoa(max)
 
-	fmt.Printf("Max of 5, 6, 8 is '%s'\n", s)
+	fmt.Printf("Max of 5, 6, 8 is '%d'\n", max)
 }
