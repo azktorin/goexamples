@@ -12,10 +12,16 @@ $ go get github.com/azkdev/goexamples
 ## Installing examples and runing
 
 ```
-$ cd $GOPATH/src/github.com/azkdev/goexamples
+$ cd $GOPATH/src/github.com/azkdev/
 ```
 ```
-$ go install ...
+$ git clone https://github.com/azkdev/goexamples
+```
+```
+$ cd goexamples
+```
+```
+$ go install "example dirname"
 ```
 
 And run each example by it's dir name.
