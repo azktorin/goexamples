@@ -3,7 +3,7 @@ package main
 
 // Imports.
 import (
-	"fmt"
+	"fmt" /*Formating lib.*/
 )
 
 // "RETURN" max of a, b, c.
