@@ -6,16 +6,13 @@ Instructions below will get you a copy of the project up and running on your loc
 ## Get a copy of the project
 
 ```
-$ go get github.com/azkdev/goexamples
+$ git clone https://github.com/azkdev/goexamples
 ```
 
 ## Installing examples and runing
 
 ```
 $ cd $GOPATH/src/github.com/azkdev/
-```
-```
-$ git clone https://github.com/azkdev/goexamples
 ```
 ```
 $ cd goexamples
