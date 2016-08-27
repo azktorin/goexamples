@@ -6,7 +6,7 @@
 Just fallow it step by step:
 
 ```
-$ go get github.com/azkdev/goexamples
+$ git clone https://github.com/azkdev/goexamples
 ```
 ```
 $ cd $GOPATH/src/github.com/azkdev/goexamples/maxofthree
