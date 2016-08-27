@@ -33,5 +33,5 @@ func main() {
 	s := Sum(arr)
 	m := Multiply(arr)
 
-	fmt.Printf("Sum = %d\nMultiply = %d", s, m)
+	fmt.Printf("Sum = %d\nMultiply = %d\n", s, m)
 }
