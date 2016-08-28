@@ -1,7 +1,7 @@
 ![goexamples](http://i.imgur.com/HkN2lB4.png)
 # Go with examples
 
-Instructions below will get you a copy of the project up and running on your local machine for development and testing purposes.
+Instructions below will get you a copy of the project up and running on your local machine for development and testing purposes. Enjoy this work...
 
 ## Get a copy of the project
 
