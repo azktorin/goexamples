@@ -1,6 +1,10 @@
 [goexamples](https://github.com/azkdev/goexamples) - Reverse It
 =========================================================================
 
+## Our task:
+
+Define a function reverse() that computes the reversal of a string. For example, reverse("Hi there, there is a new string!") should return the string "!gnirts wen a si ereht ,ereht iH".
+
 ## For installing it and run
 
 Just fallow it step by step:
