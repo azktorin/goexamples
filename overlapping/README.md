@@ -1,6 +1,10 @@
 [goexamples](https://github.com/azkdev/goexamples) - OverLapping
 =========================================================================
 
+## Our task:
+
+Define a function overlapping() that takes two lists and returns "true" if they have at least one member in common, "false" otherwise. We should write it using two nested for-loops.
+
 ## For installing it and run
 
 Just fallow it step by step:
