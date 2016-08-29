@@ -1,6 +1,10 @@
 [goexamples](https://github.com/azkdev/goexamples) - Max of three numbers
 =========================================================================
 
+## Our task:
+
+Define a function maxofthree() that takes three numbers as arguments and returns the largest of them.
+
 ## For installing it and run
 
 Just fallow it step by step:
